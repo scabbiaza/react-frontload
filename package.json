@@ -11,8 +11,8 @@
   "author": "davnicwil",
   "license": "MIT",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/davnicwil/react-frontload"
+    "type": "git",
+    "url": "https://github.com/davnicwil/react-frontload"
   },
   "keywords": [
     "react",
@@ -44,7 +44,7 @@
     "es6-promise": "^4.0.5",
     "jest": "^19.0.2",
     "lodash.random": "^3.2.0",
-    "react": "^15.4.2",
+    "react": "^16.0.0",
     "react-addons-test-utils": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-test-renderer": "^15.4.2",
